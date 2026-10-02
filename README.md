@@ -6,6 +6,7 @@
 [![Issues](https://img.shields.io/github/issues/frangelbarrera/Artificial-Intelligence-Universe?style=flat-square)](https://github.com/frangelbarrera/Artificial-Intelligence-Universe/issues)
 [![Contributors](https://img.shields.io/github/contributors/frangelbarrera/Artificial-Intelligence-Universe?style=flat-square)](https://github.com/frangelbarrera/Artificial-Intelligence-Universe/graphs/contributors)
 [![Repo Size](https://img.shields.io/github/repo-size/frangelbarrera/Artificial-Intelligence-Universe?style=flat-square)](https://github.com/frangelbarrera/Artificial-Intelligence-Universe)
+- **[SummarizAI](https://summarizai.ink)**: Chrome extension for on-page YouTube AI summary, chapters, chat, and Study flashcards.
 
 A curated directory of AI tools, agents, large language models, MCP servers, and learning resources for developers, researchers, and builders.
 
